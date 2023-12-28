@@ -1,0 +1,25 @@
+CREATE TABLE student
+( sno number(10) NOT NULL,
+  sname varchar2(50) NOT NULL,
+  marks_phy number(10),
+  marks_chem number(10),
+  marks_math number(10),
+  total_marks number(10),
+  percentage float(10),
+  grade VARCHAR2(10)
+  
+);
+
+insert into student values(1,'John Doe',75,85,90,250,83.33,'A');
+insert into student values(2,'Raj Doe',75,85,93,250,84.33,'A');
+insert into student values(3,'Bob Johnson',65,70,75,210,70.00,'B');
+insert into student values(4,'abc',75,85,90,250,83.33,'A');
+insert into student values(5,'Alex',75,85,90,250,83.33,'A');
+insert into student values(6,'Blake',75,85,90,250,83.33,'A');
+insert into student values(7,'Scott',75,85,90,250,83.33,'A');
+insert into student values(8,'Johny Doe',75,85,90,250,83.33,'A');
+insert into student values(9,'Josh wood',75,85,90,250,83.33,'A');
+insert into student values(10,'Olivia White',75,82,78,235,78.33,'B');
+
+select * from student;
+
