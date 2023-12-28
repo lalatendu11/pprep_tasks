@@ -1,0 +1,11 @@
+SNO,SNAME,marks_phy,marks_chem,marks_math,total_marks,percentage,grade
+1,John Doe,75,85,90,250,83.33,A
+2,Jane Smith,80,78,92,250,83.33,A
+3,Bob Johnson,65,70,75,210,70,B
+4,Alice Williams,90,85,88,263,87.67,A
+5,Charlie Brown,78,80,82,240,80,B
+6,Emily Davis,92,88,95,275,91.67,A+
+7,Michael Clark,85,75,80,240,80,B
+8,Sara Miller,70,68,72,210,70,B
+9,David Anderson,88,90,85,263,87.67,A
+10,Olivia White,75,82,78,235,78.33,B
